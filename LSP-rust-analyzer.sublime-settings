@@ -1,0 +1,3 @@
+{
+    "command": ["rustup", "run", "nightly", "rust-analyzer"]
+}
